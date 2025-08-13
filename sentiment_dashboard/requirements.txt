@@ -1,10 +1,7 @@
-Example requirements.txt: 
-
-nginx 
-
-CopyEdit 
-
 streamlit
-openai
-supabase-py
-python-dotenv
+pandas
+numpy
+plotly.express
+plotly.graph_objects
+collections
+
