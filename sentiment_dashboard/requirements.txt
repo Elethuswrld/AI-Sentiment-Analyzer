@@ -1,0 +1,10 @@
+Example requirements.txt: 
+
+nginx 
+
+CopyEdit 
+
+streamlit
+openai
+supabase-py
+python-dotenv
